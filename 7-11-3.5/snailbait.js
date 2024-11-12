@@ -889,6 +889,7 @@ var SnailBait = function () {
 
       processBadGuyCollision: function (sprite) {
          // TODO
+         console.log ("badguy collision")
       },
 
       processCollision: function (sprite, otherSprite) {
